@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: faxien;
+    src: url(../public/assets/studio-feixen-sans-variable.woff2);
+}
+@font-face {
+    font-family: studio-faxien;
+    src: url(../public/assets/StudioFeixenSans-Bold.woff2);
+}
