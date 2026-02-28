@@ -3,7 +3,7 @@ import React from "react";
 export const Hero = () => {
   return (
     <div className="w-full h-screen relative flex flex-col items-center justify-between py-20 overflow-hidden">
-      <div className="z-10 text-center">
+      <div className="z-10 text-center mt-6">
         <h3 className="text-xl md:text-2xl uppercase font-medium tracking-[0.2em] text-gray-400">
           Introducing
         </h3>

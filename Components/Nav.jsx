@@ -4,7 +4,7 @@ import { IoPencilOutline } from "react-icons/io5";
 
 const Nav = () => {
   return (
-    <div className="flex w-full p-6 items-center justify-between">
+    <div className="flex w-full p-6 items-center justify-between fixed top-0 left-0 z-50 bg-[#0b0b0d] bg-opacity-80 backdrop-blur-md">
       <div className="w-[10px] text-3xl">
         <IoPencilOutline  />
         <h6 className="text-[15px] font-[faxien]">pencil</h6>
